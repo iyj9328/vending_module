@@ -1,0 +1,4 @@
+description = "payment module"
+
+dependencies {
+}
